@@ -100,9 +100,8 @@ O histórico de uso também será registrado, documentando cada administração 
 Para o desenvolvimento desse sistema, a escolha do Google Apps Script se justifica pela sua integração nativa com o Google Sheets, permitindo a automação e a criação de uma interface web intuitiva. Com essa abordagem, a equipe poderá acessar e atualizar os dados em tempo real sem a necessidade de softwares adicionais. Além disso, a integração com o Gmail possibilitará o envio de alertas automáticos, garantindo que as informações críticas cheguem rapidamente aos responsáveis. O Google Drive também será utilizado para armazenar documentos e backups automáticos dos registros, aumentando a segurança das informações. Vale ressaltar que estas ferramentas podem ser obtidas de forma gratuita através do Google Workspace diminuindo assim os custos com contratação de ferramentas.  
 A disseminação dessas informações será feita de maneira estruturada para garantir que os dados estejam disponíveis no momento certo para a tomada de decisão. Sempre que um medicamento atingir um nível crítico no estoque ou estiver próximo do vencimento, o sistema enviará alertas programados para os responsáveis. A plataforma será acessível tanto em computadores quanto em dispositivos móveis, permitindo consultas rápidas sempre que necessário. Além disso, será implementado um sistema de controle de permissões, garantindo que cada usuário tenha acesso apenas às informações relevantes para sua função. O desempenho do sistema será monitorado continuamente para que ajustes e melhorias possam ser realizados com base no feedback dos usuários.
 
----
-
 ## Avaliação do Processo de IC  
+
 As informações coletadas para a implementação da Inteligência Competitiva (IC) focam principalmente nas necessidades de gestão de medicamentos, otimização da rotina dos funcionários e na interação entre os sistemas de controle de estoque e os fornecedores.  
 A qualidade dessas informações depende da clareza com que as necessidades de IC são definidas e da relevância dos dados coletados. No caso, o mapeamento de decisões críticas e a definição das KIQs (Key Intelligence Questions) são bem estruturados e pertinentes, visto que abordam questões centrais para a gestão eficiente dos medicamentos e do estoque.  
 No entanto, a qualidade das informações coletadas pode ser comprometida se os dados do sistema não forem atualizados em tempo real ou se houver problemas de integração entre diferentes fontes de dados (ex.: fornecedores, estoques internos, controle de medicamentos). A precisão e a atualidade das informações são cruciais para garantir a eficácia do sistema, além de impactar diretamente a tomada de decisões.  
@@ -140,9 +139,8 @@ Expansão da Funcionalidade do Sistema: Considerar a inclusão de funcionalidade
 Testes Pilotos: Realizar testes pilotos com um número reduzido de residentes e medicamentos antes da implementação em larga escala. Isso ajudará a identificar e corrigir problemas de usabilidade e eficácia no sistema.  
 Monitoramento e Feedback Contínuo: Estabelecer uma rotina de monitoramento constante do sistema, juntamente com um canal ativo de feedback dos usuários finais, para garantir que o sistema atenda às necessidades da equipe de gestão e dos tomadores de decisão.  
 
----
-
 ## Compliance de TI e Segurança da Informação  
+
 A Conviver Complexo de Atenção ao Idoso utiliza atualmente processos em estágios iniciais para armazenamento, tratamento e consumo de dados relacionados a seus clientes e residentes.  
 Em todo caso, a Lei Geral de Proteção de Dados fundamenta o primariamente o respeito à privacidade e a inviolabilidade da intimidade, honra e imagem dos indivíduos, cabendo então aos detentores de informações pessoais dos indivíduos estabelecer políticas sobre a coleta, armazenamento, tratamento, utilização e descarte dos dados de forma segura, a qualquer momento, sendo por meio da solicitação dos usuários ou por não fazer mais sentido que estes dados sejam mantidos.  
 Como política utilizada, a Conviver Complexo de Atenção ao Idoso mantém os dados de forma a que apenas pessoas autorizadas possam ter acesso a estas informações, respeitando então as disposições da LGPD.  
