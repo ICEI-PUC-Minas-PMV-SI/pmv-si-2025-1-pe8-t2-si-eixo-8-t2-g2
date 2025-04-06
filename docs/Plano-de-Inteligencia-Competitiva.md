@@ -61,7 +61,8 @@ Esta gestão eficiente das informações relacionadas à administração de medi
 
 Para aprimorar a gestão operacional e embasar a futura implementação de uma solução tecnológica, estruturamos um plano para a coleta, armazenamento e utilização eficiente das informações na Conviver Complexo de Atenção ao Idoso.  
 
-**Atualmente, a empresa utiliza planilhas Excel para registrar e organizar informações essenciais, como:  **
+**Atualmente, a empresa utiliza planilhas Excel para registrar e organizar informações essenciais, como:**  
+
 - Controle de Medicamentos – Administração de doses, horários, responsáveis e observações sobre o estado de saúde dos residentes
 - Estoque de Produtos de Higiene – Registro de entradas e saídas para garantir controle de consumo e evitar desperdícios
 - Registros de Admissão e Atualizações de Residentes – Dados cadastrais, histórico de saúde e informações gerais sobre cada residente
