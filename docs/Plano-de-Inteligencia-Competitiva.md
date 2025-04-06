@@ -67,13 +67,15 @@ Para aprimorar a gestão operacional e embasar a futura implementação de uma s
 - Registros de Admissão e Atualizações de Residentes – Dados cadastrais, histórico de saúde e informações gerais sobre cada residente
 - Acompanhamento das Atividades – Monitoramento da frequência dos residentes em atividades recreativas e terapêuticas
 
-**A coleta de dados é realizada manualmente pelos funcionários designados, seguindo uma rotina estruturada:  **
+**A coleta de dados é realizada manualmente pelos funcionários designados, seguindo uma rotina estruturada:**  
+
 - **Administração de Medicamentos:** sendo feitas diariamente – Enfermeiras registram, no momento da administração, os medicamentos ministrados, a dosagem e qualquer observação relevante.
 - **Controle de Estoques de alimentos e de Higiene:** os dados são coletados semanalmente pelos supervisores e enfermeiras responsáveis pela atualização que realizam a contagem dos produtos disponíveis e registram a necessidade de reposição garantindo precisão nos registros e conformidade com os processos operacionais.  
 
 Para assegurar que as informações sejam coletadas de forma estruturada e padronizada, adotaremos modelos de planilhas padronizadas no Excel. Essas planilhas serão organizadas de forma a facilitar a inserção de dados e minimizar erros de preenchimento, permitindo a automação futura da migração para o Power BI e assegurar a consistência das informações, evitando registros duplicados ou conflitantes.  
 
-**Após a coleta, os dados serão periodicamente migrados para o Power BI, permitindo:**
+**Após a coleta, os dados serão periodicamente migrados para o Power BI, permitindo:**  
+
 - **Visualização Interativa** – Dashboards dinâmicos para análise de tendências e padrões
 - **Previsão de Demanda** – Identificação de sazonalidade no consumo de medicamentos e insumos
 - **Monitoramento de Indicadores** – Controle do desempenho operacional e eficiência dos processos internos
